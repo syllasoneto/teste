@@ -1,0 +1,25 @@
+nav {
+    width: 400px;
+}
+p {
+    font-size: x-large;
+    color:darkblue;
+    width: 350px;
+    text-transform: capitalize;
+}
+
+body {
+    width: 996px;
+    height: 616;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: aliceblue;
+}
+
+div {
+    display: flex;
+}
+
+a {
+    target-name: new;
+}
